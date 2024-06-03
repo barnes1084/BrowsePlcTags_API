@@ -1,0 +1,2 @@
+If you run this as your startup project with the correct PLC driver, you can store PLC tag data once a second into an Influx database (time-series type DB). Then use Grafana to connect anbd trend the data.
+I used a Grafana and Influx DB docker container to make this run... Just ask ChatGPT, it will tell you how to do it.
